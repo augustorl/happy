@@ -60,8 +60,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Ministrado com ♥ by Rocketseat e realizado por mim :) :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Ministrado com ♥ by Rocketseat e realizado por mim :) :wave: e <h4>Feito com ❤ e café por Augusto Leite.</h4>
 
----
 
-<h4>Feito com ❤ e café por Augusto Leite.</h4>
+
