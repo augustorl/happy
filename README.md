@@ -62,17 +62,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Ministrado com ♥ by Rocketseat e realizado por mim :) :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
+---
 
-<h2>📱 Entre em contato:</h2>
-
-<p align="center">
-   <a href="https://github.com/augustorl" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a> 
-    <a href="https://augustoleite.com" targe="_blank">
-      <p> Ir até portfólio </p>
-    </a>
-    
- </p>
-
-
-<h4>Feito com ❤ e café por Augusto Leite </h4>
+<h4>Feito com ❤ e café por Augusto Leite.</h4>
