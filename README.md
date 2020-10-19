@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-happy é uma aplicação ralizada na NLW-3 da rocketseat. A sua finalidade é conectar pessoas que querem fazer visitas em orfanatos para alegrar o dia das crianças com esses respectivos lares.
+Happy foi a aplicação escolhida a ser desenvolvida na NLW-3 da rocketseat. A sua finalidade é conectar pessoas que querem fazer visitas em orfanatos para alegrar o dia das crianças com esses respectivos lares.
 
 ## 🔖 Layout
 
@@ -67,7 +67,10 @@ Ministrado com ♥ by Rocketseat e realizado por mim :) :wave: [Participe da nos
 
 <p align="center">
    <a href="https://github.com/augustorl" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>   
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a> 
+    <a href="https://augustoleite.com" targe="_blank">
+      <p> Ir até portfólio </p>
+    </a>
     
  </p>
 
